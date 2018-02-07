@@ -8,11 +8,13 @@ public class Arraylist {
 		teachers.add("Paul");
 		teachers.add("John");
 		teachers.add("Martin");
+		teachers.add("Peter");
 		
 		System.out.println( teachers.get(0) );
 		System.out.println( teachers.get(1) );
 		System.out.println( teachers.get(2) );
 		System.out.println( teachers.get(3) );
+		System.out.println( teachers.get(4) );
 	}
 
 }
